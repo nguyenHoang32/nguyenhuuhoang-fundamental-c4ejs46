@@ -1,0 +1,5 @@
+Nested list là nhiều array lồng nhau.
+Có thể lưu cả số và chuỗi ở trong một mảng
+VD
+    let arr = [["Hoang", 19], ["Hung", 20], ["Tung", 15]];
+    let arr02 = ["Hoang", 19, true];
